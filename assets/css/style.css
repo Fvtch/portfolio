@@ -1374,3 +1374,11 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.height-service{
+  height: 320px;
+}
+
+.height-portfolio{
+  height: 425px;
+}
